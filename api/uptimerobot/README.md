@@ -1,0 +1,3 @@
+## New monitor
+NAME1;URL1;ALERTID1;
+NAME2;URL2;;
